@@ -13,7 +13,6 @@ Ce projet présente une analyse complète d'un jeu de données e-commerce (Onlin
 
 ## Outils utilisés
 - Python (Pandas, NumPy, Matplotlib)
-- SQL
 - Jupyter Notebook
 
 ## Résultats
